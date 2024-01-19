@@ -283,8 +283,7 @@ fieldset {
 }
 
 .content__video-card-description {
-  overflow: hidden;
-  line-height: 16.2px;
+   line-height: 16.2px;
 }
 
 .content__video-card-thumbnail {
