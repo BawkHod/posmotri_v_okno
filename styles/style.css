@@ -63,6 +63,7 @@ ol {
 .result__video-container {
   position: relative;
   width: 711px;
+  height: 386px;
   margin-bottom: 16px;
 }
 
@@ -117,6 +118,7 @@ fieldset {
   border-right: none;
   border-bottom: 1px solid #FFF;
   border-left: none;
+  padding: 0;
   color: currentColor;
   font-family: 'Fira Sans Condensed', sans-serif;
   font-weight: 400;
@@ -283,8 +285,6 @@ fieldset {
 .content__video-card-description {
   overflow: hidden;
   line-height: 16.2px;
-  text-overflow: ellipsis;
-  white-space: nowrap;
 }
 
 .content__video-card-thumbnail {
